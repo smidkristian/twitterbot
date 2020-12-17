@@ -1,1 +1,1 @@
-console.log("I am a Twitter bot!");
+console.log("Yo, I am a Twitter bot!");
